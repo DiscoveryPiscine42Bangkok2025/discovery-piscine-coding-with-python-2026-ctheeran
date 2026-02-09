@@ -1,4 +1,4 @@
-password = "CT2413"
+password = "Python is awesome"
 
 password_input = input("Please enter password : ")
 
