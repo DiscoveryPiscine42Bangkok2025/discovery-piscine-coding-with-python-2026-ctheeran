@@ -6,8 +6,8 @@ product = first_number * second_number
 print(f"{first_number} x {second_number} = {product}")
 
 if product == 0:
-    print("The result is zero")
+    print("The result is both positive and negative")
 elif product < 0:
     print("The result is negative")
 else:
-    print("The result is both positive and negative")
+    print("The result is positive")
