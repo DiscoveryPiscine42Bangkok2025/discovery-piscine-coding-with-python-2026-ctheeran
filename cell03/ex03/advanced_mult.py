@@ -7,9 +7,8 @@ while i != 11:
     print(f"Table of {i} = ", end="")
     
     while k != 11:
-        if k == 10:
-            print(i*k)
-        else:
             print(i*k, end=" ")
-        k += 1
+            k += 1
+    
+    print()
     i += 1
